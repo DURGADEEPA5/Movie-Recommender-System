@@ -25,7 +25,11 @@ This project is a **content-based movie recommendation system** that suggests mo
 | **Data Source** | TMDB 5000 Movie Dataset |
 
 ---
+🧑‍💻 Author
 
+👩‍💻 Durgadeepa P
+✨ Passionate about Machine Learning, Data Science, and AI
+📍 India
 ## 🧰 Installation & Setup
 
 ### 1️⃣ Clone the repository
