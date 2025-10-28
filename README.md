@@ -32,8 +32,3 @@ This project is a **content-based movie recommendation system** that suggests mo
 ```bash
 git clone https://github.com/DURGADEEPA5/Movie-Recommender-System.git
 cd Movie-Recommender-System
-🧑‍💻 Author
-
-👩‍💻 Durgadeepa P
-✨ Passionate about Machine Learning, Data Science, and AI
-📍 India
