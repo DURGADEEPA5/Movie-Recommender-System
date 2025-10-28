@@ -25,14 +25,15 @@ This project is a **content-based movie recommendation system** that suggests mo
 | **Data Source** | TMDB 5000 Movie Dataset |
 
 ---
-🧑‍💻 Author
 
-👩‍💻 Durgadeepa P
-✨ Passionate about Machine Learning, Data Science, and AI
-📍 India
 ## 🧰 Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/DURGADEEPA5/Movie-Recommender-System.git
 cd Movie-Recommender-System
+🧑‍💻 Author
+
+👩‍💻 Durgadeepa P
+✨ Passionate about Machine Learning, Data Science, and AI
+📍 India
